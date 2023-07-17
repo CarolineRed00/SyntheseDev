@@ -1,5 +1,7 @@
 # Devoir 2 : Calcul de profondeur et synthèse d'image
 
+Si besoin des fichiers vidéos, me contacter par mail : caroline.rede.1@ens.etsmtl.ca
+
 En utilisant les outils logiciels de la suite MPEG MIV, IVDE (https://gitlab.com/mpeg-i-visual/ivde) et RVS (https://gitlab.com/mpeg-i-visual/rvs/-/tree/master) générer les images de profondeur et les images de synthèse pour une des séquences de test de MPEG-I, Painter ou Frog (https://mpeg-miv.org/index.php/content-database-2/). Le test devrait être fait pour 10 trames et 4 caméras seulement.
 
 Pour Painter, utiliser les caméras V0, V2, V5, V7 pour calculer la profondeur et synthétiser l’image de la caméra V1.
